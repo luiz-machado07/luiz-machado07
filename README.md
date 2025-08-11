@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="left">Olá, meu nome é Luiz Machado</h1>
 
-<!--
-**luiz-machado07/luiz-machado07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">(ESTUDANTE) Muita vontade e dedicação.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">🌍 Estou baseado em Santa Maria, RS.<br>✉️ Você pode entrar em contato comigo em l luizantao@bol.com.br ou 5598108-2711<br>🧠 Estou aprendendo o básico<br>  ⚡ Em ensino.. <br><br>🚀Sou militar do exercício apaixonado desde pequeno pela área de tecnologia e por agora estou Iniciando minha jornada na área! Em 2025, comecei o curso de Análise de Sistemas na Cruzeiro do Sul Virtual, com o sonho de trabalhar com Tecnologias. Estou iniciando minha jornada nesta área e estou animado para continuar aprendendo e, em breve, buscar minha primeira oportunidade profissional. 👇 Se você é da área ou já trilhou esse caminho, adoraria conectar e aprender com você!</p>
+
+###
+
+<h2 align="left"></h2>
+
+###
+
+<div align="left">
+</div>
+
+###
